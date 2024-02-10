@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Ao longo do curso, desenvolvemos uma aplicação front-end completa utilizando ReactJS, aplicando conceitos essenciais como Propriedades, Estados e Componentes, e ampliando ainda mais nossas habilidades com o uso de tipagem através do Typescript. Além disso, exploramos ferramentas poderosas como Vite para um ambiente de desenvolvimento ágil, e aprimoramos a interface com o uso responsivo do TailwindCSS.
 
-- [Acesse o projeto finalizado, online]()
+- [Acesse o projeto finalizado, online](https://heitor-bello.github.io/ReactNotes/)
 
 ## 🔖 Layout
 
