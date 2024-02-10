@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto nlw-expert" src="./src/assets/logo-nlw-expert.svg" width="100px">
+  <img alt="projeto nlw-expert" src="./src/assets/Wallpaper.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
